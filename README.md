@@ -1,6 +1,12 @@
-identicon.py: identicon python implementation.
+identicon.py: identicon python implementation. (Python ver.3 + Input by Name)
 ==============================================
-:Author:Shin Adachi <shn@glucose.jp>
+Tuned-up by uuuno(https://github.com/uuuno)
+
+Origin source by Shin Adachi <shn@glucose.jp>
+
+## Change Point
+- You can input not only numbers, but also string(ex. name).
+- You can use on python version3
 
 ## usage
 
